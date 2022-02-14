@@ -1,0 +1,43 @@
+{
+    "posts": [
+      {
+        "id": 1,
+        "title": "json-server",
+        "author": "typicode"
+      }
+    ],
+    "comments": [
+      {
+        "id": 1,
+        "body": "some comment",
+        "postId": 1
+      }
+    ],
+    "profile": {
+      "name": "typicode"
+    },
+    "login": {
+      "token": "sj387kdYXsl229Sk",
+      "mag": "登入成功"
+    },
+    "tableData": [
+      {
+        "id": "009",
+        "name": "LEON",
+        "class": "Police(R.P.D)",
+        "date": "2019-12-02 00:00:00"
+      },
+      {
+        "id": "001",
+        "name": "Claire",
+        "class": "Survivor",
+        "date": "2019-12-25 15:04:48"
+      },
+      {
+        "id": "002",
+        "name": "Tyrant-002",
+        "class": "B.O.W.",
+        "date": "2019-12-26 00:00:00"
+      }
+    ]
+  }
